@@ -23,7 +23,7 @@
 			<BlockSensitiveOpt2>Сред</BlockSensitiveOpt2>
 			<BlockSensitiveOpt3>Выс.</BlockSensitiveOpt3>
 			<laAlarmname tag="label;" length="150">Имя тревоги</laAlarmname>
-			<laCopyalarm tag="label;" length="670">Скапировать для тревог</laCopyalarm>
+			<laCopyalarm tag="label;" length="670">Скопировать для тревог</laCopyalarm>
 			<laTrigglerecord tag="label;" length="130">Активируемый канал</laTrigglerecord>
 			<laUpdateToFTP tag="label;" length="130">Upload to FTP</laUpdateToFTP>
 		</Page>
